@@ -1,4 +1,4 @@
-👋 Hi, I’m @kartiksoni-24
+👋 Hi, I’m @Namansingh214
 👀 I’m interested in development & coding
 🌱 I’m currently learning web development & WordPress 
 💞️ I’m looking to collaborate on ...
